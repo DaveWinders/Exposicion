@@ -16,11 +16,19 @@ public class Calculadora {
 		return a+b;
 	}
 	
+
 	
 	public Integer multiplica(){
 		
 		return a*b;
 	}
+
+	public Integer resta(){
+			
+		return a-b;
+	}
+	
+
 	
 	public static void main(String args[])
 	{
