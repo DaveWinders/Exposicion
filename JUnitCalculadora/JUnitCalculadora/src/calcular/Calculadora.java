@@ -17,7 +17,10 @@ public class Calculadora {
 	}
 	
 	
-	
+	public Integer multiplica(){
+		
+		return a*b;
+	}
 	
 	public static void main(String args[])
 	{
