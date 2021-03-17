@@ -1,0 +1,4 @@
+public Integer suma(){
+			
+		return a+b;
+	}
